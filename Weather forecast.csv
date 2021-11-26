@@ -1,0 +1,10 @@
+period,short_desc,temperature,description
+Today,Sunny,High: 88 °F,"Today: Sunny, with a high near 88. Light and variable wind becoming southwest 5 to 10 mph in the afternoon. "
+Tonight,Mostly Clear,Low: 64 °F,"Tonight: Mostly clear, with a low around 64. Southwest wind 5 to 10 mph becoming light and variable  in the evening. "
+Sunday,Sunny,High: 88 °F,"Sunday: Sunny, with a high near 88. Light and variable wind becoming southwest 5 to 10 mph in the afternoon. "
+SundayNight,Mostly Clear,Low: 64 °F,"Sunday Night: Mostly clear, with a low around 64. Southwest wind around 5 mph becoming calm  in the evening. "
+Monday,Sunny,High: 85 °F,"Monday: Sunny, with a high near 85. South southwest wind around 5 mph. "
+MondayNight,Partly Cloudy,Low: 61 °F,"Monday Night: Partly cloudy, with a low around 61."
+Tuesday,Sunny,High: 79 °F,"Tuesday: Sunny, with a high near 79."
+TuesdayNight,Patchy Fog,Low: 60 °F,"Tuesday Night: Patchy fog after 11pm.  Otherwise, mostly cloudy, with a low around 60."
+Wednesday,Patchy Fogthen Sunny,High: 77 °F,"Wednesday: Patchy fog before 11am.  Otherwise, mostly sunny, with a high near 77."
